@@ -1,0 +1,122 @@
+body{
+    font-family: sans-serif;
+    background-color: #ffe5bf;
+    width: 100%;
+    margin: auto;
+}
+.container {
+    width: 70%;
+    height: max-content;
+    margin: auto;
+
+}
+.banner img {
+    width: 100%;
+}
+.conten {
+    width: 100%;
+    margin: auto;
+}
+.conten p {
+    font-size: 20px;
+    color: black;
+}
+.isian{
+    display: flex;
+    gap: 4%;
+}
+.isian input{
+    width: 48%;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    font-size: 25px;
+    border: 3px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+.Up {
+    background-color: orange;
+    display: flex;
+    width: 100%;
+}
+
+.Up img{
+    padding: 5px;
+    padding-right: 87%;
+    vertical-align: middle;
+}
+.Up a{
+    width: max-content;
+    font-size:20px;
+    margin-top: 8px;
+    text-decoration: none;
+    font-family: Quicksand;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0.605);
+    color: white;
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.data{
+    width: 335px;
+    height: 125px;
+    border: 3px solid black;
+    border-radius: 10px;
+    background-color: orange;
+    text-align: center;
+    color: black;
+}
+.data h4{
+    margin-top: 100px;
+    margin: auto;
+    text-decoration: none;
+    color: black;
+}
+.data img{
+    height: 100px;
+    width: 100px;
+}
+.data:active{
+    background-color: rgba(0, 0, 0, 0.509);
+}
+.data1 img{
+    width: 197px;
+    height: 100px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.data1:active{
+    background-color: rgba(0, 0, 0, 0.509);
+    text-decoration: none;
+    border-radius: 10px;
+}
+.tombol input{
+    font-size: 20px;
+    background-color: black;
+    border: 3px black ;
+    border-radius: 35px;
+    width: 125px;
+    height: 35px;
+    margin: auto;
+    color: orange;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.penutup{
+    background-color: black;
+    height: 40px;
+    padding: 40px 0px 40px 0px ;
+}
+.container a img{
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.container p{
+    color: black;
+    width: 90%;
+
+}
